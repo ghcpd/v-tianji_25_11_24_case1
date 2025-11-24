@@ -1,0 +1,14 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='800' viewBox='0 0 1200 800'>
+  <defs>
+    <linearGradient id='g' x1='0' x2='1'>
+      <stop offset='0' stop-color='#ffd6a5'/>
+      <stop offset='1' stop-color='#ffb4a2'/>
+    </linearGradient>
+  </defs>
+  <rect width='100%' height='100%' fill='#071b2b'/>
+  <g transform='translate(120,140)'>
+    <rect width='960' height='520' rx='36' fill='url(#g)' opacity='0.85'/>
+    <text x='40' y='120' font-size='56' fill='#2b1e12' font-weight='800'>Merino — Warm, breathable layers</text>
+    <text x='40' y='190' font-size='20' fill='#2b1e12' opacity='0.9'>Soft natural fibers crafted for everyday motion and travel.</text>
+  </g>
+</svg>
